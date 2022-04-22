@@ -1,0 +1,164 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.bighead {
+    background-color: 	#701070;
+    padding-bottom: 10px;
+}
+
+#upleft h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+#logo {
+    font-size: 24px;
+    color: #f9faf8;
+    padding-top: 1%;
+}
+
+nav {
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+#head ul {
+    margin-left: auto;
+}
+
+#head li {
+    float: right;
+    margin-right: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#upleft p, #head a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#head {
+    max-width: 1500px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#upall {
+    display: flex;
+    margin-top: 0px;
+}
+
+#upright {
+    background-color: gray;
+    padding-top: 10%;
+    margin-left: auto;
+}
+
+
+.middle h2 {
+    text-align: center;
+}
+
+#randomcontent {
+    display: flex;
+}
+
+#randomcontent ul {
+    list-style-type: none;
+    width: 25%;
+    padding-left: 0;
+}
+
+.allbox {
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    background-color:#9400D3;
+}
+
+
+.picninfo p {
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#third {
+    background-color: #e5e7eb;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic; 
+    width: 50%;
+    padding: 10px 15px;
+    margin:auto;
+}   
+
+#downcontent {
+    background-color: #3882f6;
+    border-radius: 10px;
+    margin: 55px auto;
+    width: 55%;
+}
+
+#downcontent1  {
+    display: flex;
+}
+
+
+#cta {
+    width: 60%;
+    padding-left: 10%;
+}
+
+#cta h3 {
+    color: white;
+    margin-bottom: 0;
+}
+
+#cta p {
+    color: azure;
+    margin-top: 0;
+}
+
+.downbutton {
+    margin-top: 21%;
+    border-radius: 13px;
+    border-color: #f9faf8;
+    background-color: transparent;
+    color: white;
+    height: 27px;
+    width: 117px;
+}
+
+.signup {
+    padding-left: 5%;
+}
+
+#foot {
+    text-align: center;
+    padding: 1.6% 0;
+    background-color: #1f2937;
+}
+
+#foot h3 {
+    font-size: 15px;
+    color: #dededd;
+    margin: 0;
+}
